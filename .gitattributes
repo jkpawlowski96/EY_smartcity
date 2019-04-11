@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
+input/data_test.csv
+input/data_train.csv
