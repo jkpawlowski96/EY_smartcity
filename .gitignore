@@ -1,6 +1,5 @@
 # Datasetes
-input/data_train.csv
-input/data_test.csv
+
+input/
 output/
-*.csv
-input/test2.csv
+
